@@ -8,7 +8,7 @@
 <title>Insert title here</title>
 
 
-   <script src="/MyWeb/js/member.js"></script>
+   <script src="/../js/member.js"></script>
 
 <style>
 
@@ -26,10 +26,10 @@ table {
     <title>Welcome to MyWorld</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="/MyWeb/css/bootstrap.css" rel="stylesheet">
+    <link href="/../css/bootstrap.css" rel="stylesheet">
 
     <!-- Custom CSS -->
-    <link href="/MyWeb/css/business-casual.css" rel="stylesheet">
+    <link href="/../css/business-casual.css" rel="stylesheet">
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Nanum+Pen+Script&display=swap" 
@@ -38,10 +38,10 @@ table {
       
 
     <!-- jQuery -->
-    <script src="/MyWeb/js/jquery.js"></script>
+    <script src="/../js/jquery.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="/MyWeb/js/bootstrap.min.js"></script>
+    <script src="/../js/bootstrap.min.js"></script>
 
 
 </head>
